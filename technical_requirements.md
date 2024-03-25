@@ -176,7 +176,7 @@
 
 ## 2.6 Онлайн-бронирование
 
-Функционал онлайн-бронирования представлен в бизнес-процессах: 
+Функционал онлайн-бронирования представлен в бизнес-процессах: https://www.figma.com/file/WHSFXZl3nBmIJsU5bOvyhw/Reserve.by-processes?type=whiteboard&node-id=0-1&t=ZeayUX19rZXkSQQu-0
 
 # 3. Предлагаемый стек технологий
 
